@@ -45,7 +45,7 @@ Windows için geliştirdiğim HTA tabanlı eğlence uygulaması.
 - Python alanında uzmanlaşmak.
 - Açık kaynak projelere katkıda bulunmak.
 - Kendi yazılım projelerimi büyütmek.
-- Yazılım mühendisi olmak.
+- Yapay zeka mühendisi olmak.
 
 ---
 
