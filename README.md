@@ -1,6 +1,6 @@
 # 👋 Merhaba, Ben Kayra!
 
-### 💻 Geleceğin Yazılım Mühendisi
+### 💻 Geleceğin Yapay Zeka Mühendisi
 
 Teknolojiye, yazılıma ve yapay zekâya ilgi duyan bir öğrenciyim. Kendi projelerimi geliştirerek yazılım alanında kendimi ilerletiyorum.
 
